@@ -1,6 +1,6 @@
 import { Grid } from "semantic-ui-react";
 import ProfileHeader from "./ProfileHeader";
-import ProfileContent from "./ProfileConent";
+import ProfileContent from "./ProfileContent";
 import { useParams } from "react-router-dom";
 import { useStore } from "../../app/stores/store";
 import { useEffect } from "react";
